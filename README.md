@@ -1,4 +1,4 @@
-### Hello I'm Carlos Stefan, but everyone calls me Stefan, I'm a System Analyst and technology lover and an eternal student.:computer:
+### Hello I'm Carlos Stefan, but everyone calls me Stefan, I'm a System Analyst, technology lover and an eternal student.:computer:
 
 <div style="display: inline_black">
   <img src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif">
