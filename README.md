@@ -12,7 +12,7 @@ Feel free to contact me and/or follow.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.oliveiraa/)
 [![Twitter](https://img.shields.io/twitter/follow/oliv_stefan?style=social)](https://twitter.com/oliv_stefan/)
 
-![Stefan GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanOliveira&show_icons=true&theme=merko)
+![Stefan GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=StefanOliveira&show_icons=true&theme=merko)
 <br>[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanOliveira&layout=compact)](https://github.com/StefanOliveira/github-readme-stats)</br>
 
 ### Where am I venturing
