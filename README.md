@@ -13,7 +13,7 @@ Feel free to contact me and/or follow.
 [![Twitter](https://img.shields.io/twitter/follow/oliv_stefan?style=social)](https://twitter.com/oliv_stefan/)
 
 ![Stefan GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=StefanOliveira&show_icons=true&theme=merko)
-<br>[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanOliveira&layout=compact)](https://github.com/StefanOliveira/github-readme-stats)</br>
+<br>[![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StefanOliveira&layout=compact)](https://github.com/StefanOliveira/github-readme-stats)</br>
 
 ### Where am I venturing
 <div style="display: inline_block">
