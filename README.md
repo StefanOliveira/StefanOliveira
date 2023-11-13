@@ -27,3 +27,15 @@ Feel free to contact me and/or follow.
     <img align="center" alt="html5" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   
 </div>
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="114px" alt="Sensedia" src="https://4209582.fs1.hubspotusercontent-na1.net/hubfs/4209582/Brand%20Sensedia/Sensedia%20Oficial/.PNG%20Trendmark/Sensedia_vertical_color_CR.png"/>](https://www.sensedia.com/)
+
+**IT Systems Business Partner** \
+[**Sensedia**](https://www.sensedia.com/) • Full-time 
+
+Linguagens & Tecnologias: `NodeJS`, `JavaScript`, `AWS`, `Azure`, `Fortigate`, `Netsuite ERP`\
+<br/>
