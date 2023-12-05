@@ -4,9 +4,9 @@
   <img src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif">
 </div>
 
-I like systems and infrastructure, but I currently study and work with systems, so let's code!
+𝙸 𝚕𝚒𝚔𝚎 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎, 𝚋𝚞𝚝 𝙸 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
 
-Feel free to contact me and/or follow.
+𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚗𝚍/𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosstefan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.oliveiraa/)
