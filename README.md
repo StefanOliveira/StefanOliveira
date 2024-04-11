@@ -1,10 +1,10 @@
-### Hello I'm Carlos Stefan, but everyone calls me Stefan, I'm a Systems Analyst, technology lover and an eternal student. 💻
+### Welcome I'm Carlos Stefan, but everyone calls me Stefan, I'm a Systems Analyst, technology lover and a lifelong learner. 💻
 
 <div style="display: inline_black">
   <img src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif">
 </div>
 
-𝙸 𝚕𝚒𝚔𝚎 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎, 𝚋𝚞𝚝 𝙸 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
+I have about 10 years' experience in IT infrastructure and currently work in development and ERP, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
 
 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚗𝚍/𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠.
 
