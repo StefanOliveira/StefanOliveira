@@ -1,4 +1,4 @@
-### Welcome I'm Carlos Stefan, but everyone calls me Stefan, I'm a Systems Analyst, technology lover and a lifelong learner. 💻
+### Welcome! I'm Carlos Stefan, but everyone calls me Stefan, I'm a Systems Analyst, technology lover and a lifelong learner. 💻
 
 <div style="display: inline_black">
   <img src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif">
