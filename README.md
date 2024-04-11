@@ -4,8 +4,8 @@
   <img src="https://media1.tenor.com/m/hWVqJl31yA8AAAAC/web-webdevelopper.gif">
 </div>
 
-#### I have about 10 years' experience in IT infrastructure and currently work in development and ERP, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
 
+I have about 10 years' experience in IT infrastructure and currently work in development and ERP, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚗𝚍/𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosstefan/)
