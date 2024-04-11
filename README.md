@@ -1,7 +1,7 @@
 ### Welcome! I'm Carlos Stefan, but everyone calls me Stefan, I'm a Systems Analyst, technology lover and a lifelong learner. 💻
 
 <div style="display: inline_black">
-  <img src="https://c.tenor.com/sZSARlyRmLoAAAAC/tom-hanks-hi.gif">
+  <img src="https://media1.tenor.com/m/hWVqJl31yA8AAAAC/web-webdevelopper.gif">
 </div>
 
 I have about 10 years' experience in IT infrastructure and currently work in development and ERP, 𝚜𝚘 𝚕𝚎𝚝'𝚜 𝚌𝚘𝚍𝚎!
