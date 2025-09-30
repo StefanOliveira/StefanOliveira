@@ -10,7 +10,6 @@ I have about 10 years' experience in IT infrastructure and currently work in dev
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosstefan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sfn.cst/)
-[![Twitter](https://img.shields.io/twitter/follow/sfncst?style=social)](https://twitter.com/sfncst/)
 
 ![Stefan GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=StefanOliveira&show_icons=true&theme=merko)
 <br>[![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StefanOliveira&layout=compact)](https://github.com/StefanOliveira/github-readme-stats)</br>
